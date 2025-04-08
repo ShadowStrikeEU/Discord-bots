@@ -6,6 +6,3 @@ __pycache__/
 .vscode/
 .idea/
 
-# Tokens und Env
-.env
-*.env
